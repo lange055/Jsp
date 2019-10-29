@@ -4,6 +4,11 @@ import java.io.IOException;
 
 public class Servlet extends javax.servlet.http.HttpServlet {
     protected void doPost(javax.servlet.http.HttpServletRequest request, javax.servlet.http.HttpServletResponse response) throws javax.servlet.ServletException, IOException {
+
+        System.out.println("sas");
+        System.out.println("192.30.253.112 github.com");
+        System.out.println("151.101.113.194 github.global.ssl.fastly.net");
+
         System.out.println("11");
         System.out.println("564545");
     }
